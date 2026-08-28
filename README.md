@@ -241,7 +241,9 @@ Clinical and human-participant datasets will **not** be included in the public r
 We have also developed a research-oriented mini program based on DietOpt-SLM to support future deployment and prospective evaluation of the framework.
 
 <p align="center">
-  <img src="assets/my_nutrition.png" alt="DietOpt-SLM Mini Program QR Code" width="260">
+  <img src="assets/my_nutrition.png"
+       alt="My Nutrition Mini Program QR Code"
+       width="260">
 </p>
 
 <p align="center">
