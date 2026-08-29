@@ -271,9 +271,9 @@ Access to human-derived datasets is subject to:
 
 # Repository
 
-**DietOpt-SLM / HealthMetrix**
+**DietOpt-SLM**
 
-[https://github.com/Sean2HelloWorld/HealthMetrix](https://github.com/Health-Metrix/DietOpt-SLM)
+[https://github.com/Health-Metrix/DietOpt-SLM](https://github.com/Health-Metrix/DietOpt-SLM)
 
 ---
 
