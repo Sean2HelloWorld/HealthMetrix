@@ -273,7 +273,7 @@ Access to human-derived datasets is subject to:
 
 **DietOpt-SLM / HealthMetrix**
 
-https://github.com/Sean2HelloWorld/HealthMetrix
+[https://github.com/Sean2HelloWorld/HealthMetrix](https://github.com/Health-Metrix/DietOpt-SLM)
 
 ---
 
